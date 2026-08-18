@@ -7,7 +7,7 @@ cask "twen" do
   desc "Menu bar timer for the 20-20-20 rule that gently desaturates the screen"
   homepage "https://github.com/kannwism/twen"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "twen.app"
 
