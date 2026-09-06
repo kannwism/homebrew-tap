@@ -1,6 +1,6 @@
 cask "twen" do
-  version "0.1.0"
-  sha256 "1df5874b4134f513285eea90ff310056f876219d778ed58433a31ddc55e5e9b1"
+  version "0.2.0"
+  sha256 "fbfa4bec1228c94db96a9e46aaebfce59c5b123cfc4e9e0dfd0c0a2679b23049"
 
   url "https://github.com/kannwism/twen/releases/download/v#{version}/twen-#{version}.zip"
   name "twen"
